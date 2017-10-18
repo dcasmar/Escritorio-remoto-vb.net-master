@@ -1,0 +1,11 @@
+C:\Users\CASTILLO\Desktop\Escritorio-remoto-vb.net-master\SISMIC_CLIENTE\SISMIC_CLIENTE.exe.config
+C:\Users\CASTILLO\Desktop\Escritorio-remoto-vb.net-master\SISMIC_CLIENTE\SISMIC_CLIENTE.exe
+C:\Users\CASTILLO\Desktop\Escritorio-remoto-vb.net-master\SISMIC_CLIENTE\SISMIC_CLIENTE.pdb
+C:\Users\CASTILLO\Desktop\Escritorio-remoto-vb.net-master\SISMIC_CLIENTE\SISMIC_CLIENTE.xml
+C:\Users\CASTILLO\Desktop\Escritorio-remoto-vb.net-master\Escritorio-remoto-vb.net-master\obj\x86\Release\SISMIC_CLIENTE.Form1.resources
+C:\Users\CASTILLO\Desktop\Escritorio-remoto-vb.net-master\Escritorio-remoto-vb.net-master\obj\x86\Release\SISMIC_CLIENTE.Resources.resources
+C:\Users\CASTILLO\Desktop\Escritorio-remoto-vb.net-master\Escritorio-remoto-vb.net-master\obj\x86\Release\SISMIC_CLIENTE.vbproj.GenerateResource.Cache
+C:\Users\CASTILLO\Desktop\Escritorio-remoto-vb.net-master\Escritorio-remoto-vb.net-master\obj\x86\Release\SISMIC_CLIENTE.vbproj.CoreCompileInputs.cache
+C:\Users\CASTILLO\Desktop\Escritorio-remoto-vb.net-master\Escritorio-remoto-vb.net-master\obj\x86\Release\SISMIC_CLIENTE.exe
+C:\Users\CASTILLO\Desktop\Escritorio-remoto-vb.net-master\Escritorio-remoto-vb.net-master\obj\x86\Release\SISMIC_CLIENTE.xml
+C:\Users\CASTILLO\Desktop\Escritorio-remoto-vb.net-master\Escritorio-remoto-vb.net-master\obj\x86\Release\SISMIC_CLIENTE.pdb
